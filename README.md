@@ -1,4 +1,4 @@
-#Fawry Online-Book-Store
+# Fawry Online-Book-Store
 This Repo is for designing an Online Book store
 There is three types of books (Demo, Paper, Ebook)
 The application has an inventory for storing books and checking the outdated book that must be removed
